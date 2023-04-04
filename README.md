@@ -4,9 +4,9 @@ TravelBrain
 
 Aplikace pro zapisování nápadů na dovolenou s následujícími funkcemi.
 
-   Zapisování nápadů - Uživatelé budou moci snadno zapisovat své nápady do aplikace pomocí textových, hlasových nebo obrazových poznáme.
+   Zapisování nápadů - Uživatelé budou moci snadno zapisovat své nápady do aplikace pomocí textových poznámek.
 
- Organizace nápadů - Uživatelé budou moci své nápady organizovat podle různých kategorií, jako jsou například atrakce, restaurace, aktivity nebo památky.
+ Organizace nápadů - Uživatelé budou moci své nápady organizovat podle různých kategorií, jako jsou například roční období či kontinent.
     
    Mapování nápadů - Aplikace bude umožňovat uživatelům mapovat své nápady a zobrazovat je na interaktivní mapě, aby mohli snadno plánovat své trasy a zobrazovat výlety v okolí.
     
@@ -17,3 +17,5 @@ Aplikace pro zapisování nápadů na dovolenou s následujícími funkcemi.
    Offline přístup - Aplikace umožní uživatelům přístup k jejich nápadům i bez připojení k internetu, aby mohli plánovat svou dovolenou i v oblastech s omezeným připojením.
 
 Tato aplikace by mohla být velmi užitečná pro cestovatele, kteří chtějí mít přehled o svých nápadech a zároveň si plánovat dovolenou co nejefektivněji.
+
+![iPhone 14 Pro Max – 1](https://user-images.githubusercontent.com/113033540/229926023-bc06ba9c-2836-4699-bebc-acc9519bd728.jpg)
