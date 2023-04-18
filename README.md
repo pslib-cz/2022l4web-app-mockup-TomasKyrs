@@ -16,7 +16,7 @@ Aplikace pro zapisování nápadů na dovolenou s následujícími funkcemi.
     
    Offline přístup - Aplikace umožní uživatelům přístup k jejich nápadům i bez připojení k internetu, aby mohli plánovat svou dovolenou i v oblastech s omezeným připojením.
 
-Tato aplikace by mohla být velmi užitečná pro cestovatele, kteří chtějí mít přehled o svých nápadech a zároveň si plánovat dovolenou co nejefektivněji.
+Aplikace by mohla být velmi užitečná pro cestovatele, kteří chtějí mít přehled o svých nápadech a zároveň si plánovat dovolenou co nejefektivněji.
 
 ![255](https://user-images.githubusercontent.com/113033540/232912774-9f501829-2426-4ea9-ac92-4d411d69ac5c.jpg)
 
