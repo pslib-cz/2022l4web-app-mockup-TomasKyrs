@@ -22,5 +22,4 @@ Tato aplikace by mohla být velmi užitečná pro cestovatele, kteří chtějí 
 
 ## Použité barvy
 
-![Group 7](https://user-images.githubusercontent.com/113033540/232902156-4b769b23-db05-4c15-8260-9cff07d5493b.jpg)![Group 9](https://user-images.githubusercontent.com/113033540/232902754-9e6a8118-d5d4-4802-abad-4980683aebe6.jpg)
-![Group 11](https://user-images.githubusercontent.com/113033540/232902760-28bf1ab3-f504-484f-9cc0-91a5eaf14fd9.jpg)
+![Group 7](https://user-images.githubusercontent.com/113033540/232902156-4b769b23-db05-4c15-8260-9cff07d5493b.jpg)![Group 9](https://user-images.githubusercontent.com/113033540/232902754-9e6a8118-d5d4-4802-abad-4980683aebe6.jpg)![Group 11](https://user-images.githubusercontent.com/113033540/232902760-28bf1ab3-f504-484f-9cc0-91a5eaf14fd9.jpg)
